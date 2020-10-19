@@ -26,3 +26,13 @@ The Colorado Board of Elections employee gave us the tast to complete an alectio
 
 ## Challenge Overview
 creating for loops with lists of dictionaries was difficult to grasp initially but with practice became crutial to developing code.
+
+## Election Audit
+
+Overview of Election Audit: Purpose of an election audit is to ensure the integrity of the calculated votes are accurate.  It also exames in detail the process used and double-checks its veracity.
+
+* Election-Audit Results: The audit matched the election results with 100% accuracy.
+
+![Election Results](https://github.com/basecipher/Election_Analysis/blob/main/Election%20Results.png)
+
+* Script can be repurposed for next election or modified for a different jurisdiction very easily.
